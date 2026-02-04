@@ -4,7 +4,7 @@ from typing import Optional, Tuple
 from .logger import logger
 
 __version__ = "1.0.0"
-GITHUB_REPO = "yourusername/video-downloader"  # TODO: Update with your actual GitHub repo
+GITHUB_REPO = "yourusername/socialmedia-downloader"  # TODO: Update with your actual GitHub username
 UPDATE_CHECK_URL = f"https://api.github.com/repos/{GITHUB_REPO}/releases/latest"
 
 

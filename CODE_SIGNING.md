@@ -1,6 +1,6 @@
 # Code Signing Guide
 
-Complete guide to signing your Video Downloader application for distribution.
+Complete guide to signing your Social Media Downloader application for distribution.
 
 ---
 

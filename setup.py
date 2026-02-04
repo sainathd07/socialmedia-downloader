@@ -1,4 +1,4 @@
-"""Setup script for Video Downloader"""
+"""Setup script for Social Media Downloader"""
 from setuptools import setup, find_packages
 from pathlib import Path
 
@@ -17,19 +17,19 @@ if requirements_file.exists():
     ]
 
 setup(
-    name="video-downloader",
+    name="socialmedia-downloader",
     version="1.0.0",
     description="Cross-platform video downloader for YouTube and Instagram",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    author="Video Downloader Team",
-    url="https://github.com/yourusername/video-downloader",
+    author="Social Media Downloader Team",
+    url="https://github.com/yourusername/socialmedia-downloader",
     packages=find_packages(),
     include_package_data=True,
     install_requires=requirements,
     entry_points={
         "console_scripts": [
-            "video-downloader=src.main:main",
+            "socialmedia-downloader=src.main:main",
         ],
     },
     classifiers=[

@@ -1,2 +1,2 @@
-"""Video Downloader Application"""
+"""Social Media Downloader Application"""
 __version__ = "1.0.0"

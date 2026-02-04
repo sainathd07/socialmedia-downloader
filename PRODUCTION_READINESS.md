@@ -2,7 +2,7 @@
 
 ## ✅ Current Status: **95% Production Ready**
 
-Your Video Downloader application is very close to production ready! Here's the detailed assessment:
+Your Social Media Downloader application is very close to production ready! Here's the detailed assessment:
 
 ---
 

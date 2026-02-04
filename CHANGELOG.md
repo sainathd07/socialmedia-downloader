@@ -78,5 +78,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
-[1.0.0]: https://github.com/yourusername/video-downloader/releases/tag/v1.0.0
-[Unreleased]: https://github.com/yourusername/video-downloader/compare/v1.0.0...HEAD
+[1.0.0]: https://github.com/yourusername/socialmedia-downloader/releases/tag/v1.0.0
+[Unreleased]: https://github.com/yourusername/socialmedia-downloader/compare/v1.0.0...HEAD

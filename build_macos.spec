@@ -35,7 +35,7 @@ exe = EXE(
     a.scripts,
     [],
     exclude_binaries=True,
-    name='VideoDownloader',
+    name='SocialMediaDownloader',
     debug=False,
     bootloader_ignore_signals=False,
     strip=False,

@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Create app icon for Video Downloader
+Create app icon for Social Media Downloader
 Generates a simple but professional icon with PIL
 """
 from PIL import Image, ImageDraw, ImageFont

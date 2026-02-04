@@ -1,8 +1,8 @@
-# 🎬 Video Downloader
+# 🎬 Social Media Downloader
 
 > A modern, cross-platform desktop application for downloading videos from YouTube and Instagram with a beautiful GUI.
 
-[![Production Ready](https://img.shields.io/badge/production-ready-brightgreen)](FINAL_STATUS.md)
+[![Production Ready](https://img.shields.io/badge/production-ready-brightgreen)](PRODUCTION_READINESS.md)
 [![Tests](https://img.shields.io/badge/tests-56%20passing-brightgreen)](tests/)
 [![Python](https://img.shields.io/badge/python-3.10+-blue)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)

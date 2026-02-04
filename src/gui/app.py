@@ -25,7 +25,7 @@ class VideoDownloaderApp(ctk.CTk):
         super().__init__()
         
         # Configure window
-        self.title("Video Downloader")
+        self.title("Social Media Downloader")
         self.geometry("600x700")
         self.resizable(False, False)
         

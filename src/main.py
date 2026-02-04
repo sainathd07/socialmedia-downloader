@@ -1,4 +1,4 @@
-"""Main entry point for Video Downloader application"""
+"""Main entry point for Social Media Downloader application"""
 import sys
 from pathlib import Path
 

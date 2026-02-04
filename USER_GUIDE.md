@@ -1,4 +1,4 @@
-# Video Downloader - User Guide
+# Social Media Downloader - User Guide
 
 ## Overview
 

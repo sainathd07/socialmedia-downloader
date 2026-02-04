@@ -1,6 +1,6 @@
 # Troubleshooting Guide
 
-Common issues and solutions for Video Downloader.
+Common issues and solutions for Social Media Downloader.
 
 ---
 

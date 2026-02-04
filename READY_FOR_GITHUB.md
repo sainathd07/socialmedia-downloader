@@ -72,19 +72,19 @@ Edit these files with your actual GitHub username:
 
 1. **`src/utils/version.py`** (Line 4):
    ```python
-   GITHUB_REPO = "yourusername/video-downloader"  # ← Change this
+   GITHUB_REPO = "yourusername/socialmedia-downloader"  # ← Change this
    ```
 
 2. **`CHANGELOG.md`** (Bottom of file):
    ```markdown
-   [1.0.0]: https://github.com/yourusername/video-downloader/releases/tag/v1.0.0
-   [Unreleased]: https://github.com/yourusername/video-downloader/compare/v1.0.0...HEAD
+   [1.0.0]: https://github.com/yourusername/socialmedia-downloader/releases/tag/v1.0.0
+   [Unreleased]: https://github.com/yourusername/socialmedia-downloader/compare/v1.0.0...HEAD
    ```
 
 ### Step 2: Create GitHub Repository
 
 1. Go to https://github.com/new
-2. Repository name: `video-downloader` (or your choice)
+2. Repository name: `socialmedia-downloader`
 3. Description: "A modern, cross-platform desktop application for downloading videos from YouTube and Instagram"
 4. Make it **Public** (for open source)
 5. **Do NOT** check any of the initialize options (we already have these files)
@@ -95,8 +95,8 @@ Edit these files with your actual GitHub username:
 After creating the repository, run these commands:
 
 ```bash
-# Add your GitHub repository as remote (replace with your actual URL)
-git remote add origin https://github.com/yourusername/video-downloader.git
+# Add your GitHub repository as remote (replace with your actual username)
+git remote add origin https://github.com/yourusername/socialmedia-downloader.git
 
 # Push the code
 git push -u origin main
@@ -108,7 +108,7 @@ On GitHub, configure these settings:
 
 #### About Section
 - Description: "A modern, cross-platform desktop application for downloading videos from YouTube and Instagram"
-- Topics: `python`, `video-downloader`, `youtube-downloader`, `instagram-downloader`, `customtkinter`, `yt-dlp`, `desktop-app`, `cross-platform`, `ffmpeg`, `gui`
+- Topics: `python`, `socialmedia-downloader`, `video-downloader`, `youtube-downloader`, `instagram-downloader`, `customtkinter`, `yt-dlp`, `desktop-app`, `cross-platform`, `ffmpeg`, `gui`
 
 #### Settings
 - ✅ Enable Issues

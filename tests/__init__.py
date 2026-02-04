@@ -1,1 +1,1 @@
-"""Test suite for Video Downloader"""
+"""Test suite for Social Media Downloader"""

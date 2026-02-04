@@ -1,4 +1,4 @@
-# Contributing to Video Downloader
+# Contributing to Social Media Downloader
 
 Thank you for your interest in contributing! This document provides guidelines for contributing to this project.
 
@@ -7,8 +7,8 @@ Thank you for your interest in contributing! This document provides guidelines f
 1. **Fork the repository**
 2. **Clone your fork**:
    ```bash
-   git clone https://github.com/yourusername/video-downloader.git
-   cd video-downloader
+git clone https://github.com/yourusername/socialmedia-downloader.git
+cd socialmedia-downloader
    ```
 3. **Set up development environment**:
    ```bash

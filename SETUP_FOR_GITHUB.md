@@ -8,14 +8,14 @@ Before pushing to GitHub, update these files with your actual repository informa
 
 ### `src/utils/version.py`
 ```python
-GITHUB_REPO = "yourusername/video-downloader"  # Change to your actual repo
+GITHUB_REPO = "yourusername/socialmedia-downloader"  # Change to your actual username
 ```
 
 ### `CHANGELOG.md`
 Update the URLs at the bottom:
 ```markdown
-[1.0.0]: https://github.com/yourusername/video-downloader/releases/tag/v1.0.0
-[Unreleased]: https://github.com/yourusername/video-downloader/compare/v1.0.0...HEAD
+[1.0.0]: https://github.com/yourusername/socialmedia-downloader/releases/tag/v1.0.0
+[Unreleased]: https://github.com/yourusername/socialmedia-downloader/compare/v1.0.0...HEAD
 ```
 
 ### `README.md`
@@ -25,7 +25,7 @@ Update any example URLs or references to match your GitHub username.
 
 1. Go to [GitHub](https://github.com/new)
 2. Create a new repository:
-   - **Name**: `video-downloader` (or your preferred name)
+   - **Name**: `socialmedia-downloader`
    - **Description**: "A modern, cross-platform desktop application for downloading videos from YouTube and Instagram"
    - **Visibility**: Public (for open source)
    - **Do NOT** initialize with README, .gitignore, or license (we already have these)
@@ -35,8 +35,8 @@ Update any example URLs or references to match your GitHub username.
 After creating the repository on GitHub:
 
 ```bash
-# Add the remote (replace with your actual URL)
-git remote add origin https://github.com/yourusername/video-downloader.git
+# Add the remote (replace with your actual username)
+git remote add origin https://github.com/yourusername/socialmedia-downloader.git
 
 # Push the code
 git push -u origin main
@@ -72,23 +72,23 @@ You can add additional badges to `README.md`:
 
 ### Build Status
 ```markdown
-[![Build Status](https://github.com/yourusername/video-downloader/workflows/Build%20and%20Test/badge.svg)](https://github.com/yourusername/video-downloader/actions)
+[![Build Status](https://github.com/yourusername/socialmedia-downloader/workflows/Build%20and%20Test/badge.svg)](https://github.com/yourusername/socialmedia-downloader/actions)
 ```
 
 ### Code Coverage
 If you set up Codecov:
 ```markdown
-[![codecov](https://codecov.io/gh/yourusername/video-downloader/branch/main/graph/badge.svg)](https://codecov.io/gh/yourusername/video-downloader)
+[![codecov](https://codecov.io/gh/yourusername/socialmedia-downloader/branch/main/graph/badge.svg)](https://codecov.io/gh/yourusername/socialmedia-downloader)
 ```
 
 ### Downloads
 ```markdown
-[![GitHub Downloads](https://img.shields.io/github/downloads/yourusername/video-downloader/total)](https://github.com/yourusername/video-downloader/releases)
+[![GitHub Downloads](https://img.shields.io/github/downloads/yourusername/socialmedia-downloader/total)](https://github.com/yourusername/socialmedia-downloader/releases)
 ```
 
 ### Stars
 ```markdown
-[![GitHub Stars](https://img.shields.io/github/stars/yourusername/video-downloader?style=social)](https://github.com/yourusername/video-downloader/stargazers)
+[![GitHub Stars](https://img.shields.io/github/stars/yourusername/socialmedia-downloader?style=social)](https://github.com/yourusername/socialmedia-downloader/stargazers)
 ```
 
 ## 6. Create First Release
@@ -216,7 +216,7 @@ A modern, cross-platform desktop app for downloading videos from YouTube & Insta
 📦 56 tests, 88% coverage
 📄 MIT Licensed
 
-Check it out: https://github.com/yourusername/video-downloader
+Check it out: https://github.com/yourusername/socialmedia-downloader
 
 Feedback welcome! 🚀
 ```

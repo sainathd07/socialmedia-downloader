@@ -2,7 +2,7 @@
 
 ## ✅ **YES - Production Ready!**
 
-Your Video Downloader is **95% production ready** and can be released today!
+Your Social Media Downloader is **95% production ready** and can be released today!
 
 ---
 
