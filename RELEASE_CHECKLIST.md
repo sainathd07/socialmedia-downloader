@@ -11,7 +11,7 @@ Your Social Media Downloader is **95% production ready** and can be released tod
 ### Step 1: Build the Application (5 minutes)
 
 ```bash
-cd /Users/sainathdushatti/projects/Tools/Downloader
+cd /path/to/socialmedia-downloader
 
 # Install dev dependencies if not already installed
 pip install -r requirements-dev.txt

@@ -36,8 +36,8 @@ Download the latest release for your platform:
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd Downloader
+git clone https://github.com/sainathd07/socialmedia-downloader.git
+cd socialmedia-downloader
 ```
 
 2. Create a virtual environment:

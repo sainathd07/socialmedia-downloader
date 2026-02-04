@@ -23,7 +23,7 @@ setup(
     long_description=long_description,
     long_description_content_type="text/markdown",
     author="Social Media Downloader Team",
-    url="https://github.com/yourusername/socialmedia-downloader",
+    url="https://github.com/sainathd07/socialmedia-downloader",
     packages=find_packages(),
     include_package_data=True,
     install_requires=requirements,

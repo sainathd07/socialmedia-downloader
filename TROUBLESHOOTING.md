@@ -228,7 +228,7 @@ rm ~/.video_downloader/settings.json
 rm -rf ~/.video_downloader
 
 # Rebuild from source
-cd /Users/sainathdushatti/projects/Tools/Downloader
+cd /path/to/socialmedia-downloader
 ./build.sh
 
 # Open fresh app
