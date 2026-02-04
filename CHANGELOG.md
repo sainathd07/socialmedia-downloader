@@ -1,4 +1,4 @@
-# Changelog
+# Changelog - Social Media Downloader
 
 All notable changes to this project will be documented in this file.
 

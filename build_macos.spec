@@ -56,17 +56,17 @@ coll = COLLECT(
     strip=False,
     upx=True,
     upx_exclude=[],
-    name='VideoDownloader',
+    name='SocialMediaDownloader',
 )
 
 app = BUNDLE(
     coll,
-    name='VideoDownloader.app',
-    icon=None,
-    bundle_identifier='com.videodownloader.app',
+    name='SocialMediaDownloader.app',
+    icon='src/assets/icon.icns',
+    bundle_identifier='com.socialmediadownloader.app',
     info_plist={
-        'CFBundleName': 'Video Downloader',
-        'CFBundleDisplayName': 'Video Downloader',
+        'CFBundleName': 'Social Media Downloader',
+        'CFBundleDisplayName': 'Social Media Downloader',
         'CFBundleVersion': '1.0.0',
         'CFBundleShortVersionString': '1.0.0',
         'NSHighResolutionCapable': True,
