@@ -71,6 +71,11 @@ jobs:
           pip install -r requirements.txt
           pip install -r requirements-dev.txt
 
+      - name: Create Windows icon (if missing)
+        run: |
+          python -c "from PIL import Image; img = Image.open('src/assets/icon.png'); img.save('src/assets/icon.ico', format='ICO', sizes=[(16,16), (32,32), (48,48), (64,64), (128,128), (256,256)])"
+        shell: bash
+
       - name: Build Windows executable
         run: |
           pyinstaller build_windows.spec --clean --noconfirm
