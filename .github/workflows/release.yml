@@ -110,7 +110,7 @@ jobs:
 
       - name: Build Linux executable
         run: |
-          pyinstaller build_windows.spec --clean --noconfirm --name SocialMediaDownloader
+          pyinstaller build_linux.spec --clean --noconfirm
 
       - name: Create archive
         run: |
